@@ -1,0 +1,11 @@
+@import 'https://getbootstrap.com/docs/4.0/dist/css/bootstrap.min.css';
+@import 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css';
+@import 'bootstrap.min.css';
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.indent{
+	padding-left: 1000px;
+}
